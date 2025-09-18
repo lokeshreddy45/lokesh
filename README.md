@@ -1,2 +1,2 @@
-# lokesh
-java developer
+# loke
+i am learning data scientist and AI
